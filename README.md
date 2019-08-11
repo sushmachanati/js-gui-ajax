@@ -17,13 +17,13 @@
 - No downloads required
 - Easy-to-write, server-powered client apps
 
-## Fetch
+## JavaScript fetch
 
 - [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [JSON.stringify (object to JSON string)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 - [JSON.parse to object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
-## axios
+## axios (even easier than fetch)
 
 - Widely used in [React](https://reactjs.org/) and [Vue](https://vuejs.org/) apps
 - Built-in JSON transforms
