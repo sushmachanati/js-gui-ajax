@@ -5,6 +5,7 @@ button.addEventListener("click", sum);
 function sum()
 {
   const te=2;
-  guest.textContent = 'staff: '+students.value+te.value;
+  console.log(Number(students.value)+te)
+  guest.innerHTML = `staff: ${Number(students.value)+te}`;
   
 }
