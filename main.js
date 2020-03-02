@@ -1,8 +1,10 @@
-button.addEventListener("click",sum);
-function sum(m,n){
-  m= document.getElementById('students');
-  n=document.getElementById('guest');
-  var s=0;
-  s=number(m)+2;
+const students= document.querySelector('#students');
+const guest=document.querySelector('#guest');
+
+button.addEventListener("click", sum);
+function sum()
+{
+  te=2;
+  guest.textContent = 'staff: '+students.value+te;
   
 }
