@@ -14,7 +14,7 @@ window.addEventListener('load', () => {
   const closingTag = '</main>'
   fetch(appURL, { method: 'GET' })
     .then(response => {
-      return response.text() // returns promise
+      return response.text() // returns people per course
     }).catch(error => { console.error(`ERROR: ${error}`) })
     .then(txt => {
       const start = txt.indexOf(openingTag)

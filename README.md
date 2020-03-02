@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/js-gui-ajax/)
-- [Source](https://github.com/profcase/js-gui-ajax)
+- [Demo](https://sushmachanati.github.io/js-gui-ajax/)
+- [Source](https://github.com/sushmachanati/js-gui-ajax)
 
 ## Requirements
 
@@ -42,4 +42,4 @@
 - [Code Coverage with QUnit in JavaScriptMVC](https://juristr.com/blog/2013/06/code-coverage-with-qunit-in-javascriptmvc/)
 ## See Also
 
-- [More App Examples](https://profcase.github.io/web-apps-list/)
+
